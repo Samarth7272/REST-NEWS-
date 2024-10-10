@@ -1,1 +1,1 @@
-Rest news automatic new reader  
+Rest news automatic new reader  .
